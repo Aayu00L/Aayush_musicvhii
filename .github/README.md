@@ -79,10 +79,10 @@ Press `Ctrl+b` and then `d`
 </h3>
 
 <p align="center">
-<a href=""><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/Venom_world_OFC"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <p align="center">
-<a href="https://telegram.me/FallenAssociation"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/venom_worlld"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 ━━━━━━━━━━━━━━━━━━━━
@@ -91,10 +91,8 @@ Press `Ctrl+b` and then `d`
     ─「 ᴄʀᴇᴅɪᴛs 」─
 </h3>
 
-- <b>[AAYUSH](https://telegram.me/Awesome_Aayu)  ғᴏʀ  <img src="https://telegra.ph/file/6d6735c5c4277ba166180.jpg"> </b>
-- 
-- <b>[VENOM](https://telegram.me/Its_aryann)  ғᴏʀ  <img src="https://telegra.ph/file/6d6735c5c4277ba166180.jpg"> </b>
-
+- <b>[AAYUSH](https://telegram.me/Awesome_Aayu)  
+- <b>[VENOM](https://telegram.me/Its_aryann)  
 
 
 ━━━━━━━━━━━━━━━━━━━━
